@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/clean/mdb_speeches.feather
+data/clean/mdb_paragraphs.feather
+.DS_Store
+data/raw/*
+.env
+.venv/
+data/clean/models/*
+interactive/*
